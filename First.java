@@ -11,7 +11,7 @@ public class First {
  
         int c = a + 5;
 
-        System.out.println(c);
+        System.out.println(c + c );
 
     }
 
